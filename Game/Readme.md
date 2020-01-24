@@ -1,0 +1,1 @@
+This is where you stick your Unreal Gold installation.

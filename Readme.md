@@ -1,0 +1,1 @@
+First crack at a Docker image for an Unreal Gold Co-Op server.
